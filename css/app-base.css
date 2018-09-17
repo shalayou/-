@@ -1,0 +1,13 @@
+#app-page{
+	width:900px;
+	height:auto;
+	margin:124px auto 30px auto;
+}
+.box{
+	width:900px;
+	height:auto;
+}
+.box img{
+	float:left;
+	margin:0;
+}
